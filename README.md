@@ -10,12 +10,13 @@ We propose a selection method to pick price estimates from different models so p
 
 Once a proper model set is determined, model selection can work with minimal tweaking across different time periods, assets and performance metrics.
 
-## Dreams (Paris)
+## TODO
 
 - Including proper documentation and a less academic version of the model selection method.
 - Adding understandable comments on model selection codes.
 - An `R` package.
 
-## Reality (Eminonu)
 
-- I have to wrap up the thesis and graduate first.
+##Acknowledgments
+
+This study is supported by Bogazici University Scientific Research Projects (Project Number: 8101).
